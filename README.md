@@ -1,4 +1,5 @@
 # JVM
+Сборщик мусора уберёт объект, который перестаёт использоваться. Нельзя сказать, когда это случится.
 <image src="img/Untitled document (18).png" alt=" ">
 <image src="img/Untitled document (1).png" alt=" ">
 <image src="img/Untitled document (2).png" alt=" ">
